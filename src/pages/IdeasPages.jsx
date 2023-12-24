@@ -81,8 +81,6 @@ const HomePages = () => {
                 <Container className="artikel justify-content-center w-100 min-vh-100">
                   <Row>
                     <Col>
-                    <h1 className="text-center fw-bold">Artikel Terbaru</h1>
-                    <p className="text-center">Halo</p>
                     </Col>
                   </Row>
                   <Row>
